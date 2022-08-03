@@ -1,0 +1,22 @@
+<root>
+  <row>
+    <CRIM>0.00632</CRIM>
+    <NOX>2.31</NOX>
+  </row>
+  <row>
+    <CRIM>0.02731</CRIM>
+    <NOX>7.07</NOX>
+  </row>
+  <row>
+    <CRIM>0.02729</CRIM>
+    <NOX>7.07</NOX>
+  </row>
+  <row>
+    <CRIM>0.03237</CRIM>
+    <NOX>2.18</NOX>
+  </row>
+  <row>
+    <CRIM>0.06905</CRIM>
+    <NOX>2.18</NOX>
+  </row>
+</root>
